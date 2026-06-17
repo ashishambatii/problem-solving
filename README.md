@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ashishambatii/problem-solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ashishambatii/problem-solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ashishambatii/problem-solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ashishambatii/problem-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ashishambatii/problem-solving/tree/master/3226-minimum-number-game) |
 ## Linked List
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ashishambatii/problem-solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/ashishambatii/problem-solving/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ashishambatii/problem-solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ashishambatii/problem-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ashishambatii/problem-solving/tree/master/3226-minimum-number-game) |
 ## Simulation
@@ -63,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ashishambatii/problem-solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ashishambatii/problem-solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ashishambatii/problem-solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
