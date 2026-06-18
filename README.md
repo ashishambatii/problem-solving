@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ashishambatii/problem-solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ashishambatii/problem-solving/tree/master/0078-subsets) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/1072-next-greater-node-in-linked-list) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ashishambatii/problem-solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ashishambatii/problem-solving/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
