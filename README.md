@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ashishambatii/problem-solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/ashishambatii/problem-solving/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1833-find-the-highest-altitude](https://github.com/ashishambatii/problem-solving/tree/master/1833-find-the-highest-altitude) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ashishambatii/problem-solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ashishambatii/problem-solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/ashishambatii/problem-solving/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
