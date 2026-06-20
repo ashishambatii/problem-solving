@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/ashishambatii/problem-solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ashishambatii/problem-solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ashishambatii/problem-solving/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/ashishambatii/problem-solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ashishambatii/problem-solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ashishambatii/problem-solving/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
