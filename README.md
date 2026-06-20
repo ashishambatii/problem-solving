@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ashishambatii/problem-solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ashishambatii/problem-solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ashishambatii/problem-solving/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/ashishambatii/problem-solving/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/1072-next-greater-node-in-linked-list) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ashishambatii/problem-solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ashishambatii/problem-solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ashishambatii/problem-solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ashishambatii/problem-solving/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/ashishambatii/problem-solving/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/ashishambatii/problem-solving/tree/master/0800-letter-case-permutation) |
 ## Bit Manipulation
