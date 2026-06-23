@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ashishambatii/problem-solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ashishambatii/problem-solving/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ashishambatii/problem-solving/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/ashishambatii/problem-solving/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ashishambatii/problem-solving/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/ashishambatii/problem-solving/tree/master/0800-letter-case-permutation) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ashishambatii/problem-solving/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
 | [0800-letter-case-permutation](https://github.com/ashishambatii/problem-solving/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/ashishambatii/problem-solving/tree/master/1160-letter-tile-possibilities) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ashishambatii/problem-solving/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
 ## Prefix Sum
 |  |
