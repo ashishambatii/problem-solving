@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ashishambatii/problem-solving/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/ashishambatii/problem-solving/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
 ## Prefix Sum
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/ashishambatii/problem-solving/tree/master/1961-maximum-ice-cream-bars) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ashishambatii/problem-solving/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ashishambatii/problem-solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
