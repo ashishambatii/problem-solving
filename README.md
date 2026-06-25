@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashishambatii/problem-solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ashishambatii/problem-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ashishambatii/problem-solving/tree/master/3226-minimum-number-game) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/ashishambatii/problem-solving/tree/master/1297-maximum-number-of-balloons) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/ashishambatii/problem-solving/tree/master/1833-find-the-highest-altitude) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/ashishambatii/problem-solving/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/ashishambatii/problem-solving/tree/master/1297-maximum-number-of-balloons) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -147,4 +151,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ashishambatii/problem-solving/tree/master/0063-unique-paths-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
