@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/ashishambatii/problem-solving/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/ashishambatii/problem-solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishambatii/problem-solving/tree/master/0416-partition-equal-subset-sum) |
+| [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/1072-next-greater-node-in-linked-list) |
 | [1130-last-stone-weight-ii](https://github.com/ashishambatii/problem-solving/tree/master/1130-last-stone-weight-ii) |
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/1072-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/1072-next-greater-node-in-linked-list) |
 ## Sorting
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ashishambatii/problem-solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Counting
 |  |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/ashishambatii/problem-solving/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ashishambatii/problem-solving/tree/master/0322-coin-change) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
