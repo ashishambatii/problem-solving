@@ -22,7 +22,7 @@ public:
 
         while (temp != NULL) {
 
-    if (s.find(temp->val) == s.end()) {
+    if (!s.count(temp->val)) {
         tail->next = new ListNode(temp->val);
         tail = tail->next;
     }
