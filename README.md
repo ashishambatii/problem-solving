@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ashishambatii/problem-solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashishambatii/problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ashishambatii/problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ashishambatii/problem-solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ashishambatii/problem-solving/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ashishambatii/problem-solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ashishambatii/problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/ashishambatii/problem-solving/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/ashishambatii/problem-solving/tree/master/1297-maximum-number-of-balloons) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ashishambatii/problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
