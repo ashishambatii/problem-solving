@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ashishambatii/problem-solving/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/ashishambatii/problem-solving/tree/master/0279-perfect-squares) |
 | [1965-sum-of-digits-in-base-k](https://github.com/ashishambatii/problem-solving/tree/master/1965-sum-of-digits-in-base-k) |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashishambatii/problem-solving/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
 |  |
 | ------- |
