@@ -36,6 +36,8 @@ class Solution {
     }
 public:
     int maxLevelSum(TreeNode* root) {
+        //if the sums are equal, the priority queue chooses the larger level number, because pairs are compared lexicographically which mean if there are pairs {10,3},{10,2} => {10,3}>{10,2}, but we need {10,2}>{10,3}
+        // if we assign the level values as a -ve number then -2>-3 
         modi(root);
       auto val=pq.top();
         return -val.second;
