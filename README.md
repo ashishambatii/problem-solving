@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishambatii/problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishambatii/problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishambatii/problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
