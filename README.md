@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/ashishambatii/problem-solving/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ashishambatii/problem-solving/tree/master/0322-coin-change) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -238,10 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishambatii/problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishambatii/problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -250,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishambatii/problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
