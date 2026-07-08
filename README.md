@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/ashishambatii/problem-solving/tree/master/2478-longest-nice-subarray) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashishambatii/problem-solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ashishambatii/problem-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/ashishambatii/problem-solving/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3226-minimum-number-game](https://github.com/ashishambatii/problem-solving/tree/master/3226-minimum-number-game) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashishambatii/problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ashishambatii/problem-solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ashishambatii/problem-solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashishambatii/problem-solving/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/ashishambatii/problem-solving/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Backtracking
 |  |
 | ------- |
