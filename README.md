@@ -234,4 +234,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishambatii/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishambatii/problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishambatii/problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishambatii/problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishambatii/problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
