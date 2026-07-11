@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-  stack<int>s;
+  int a=0;
   void modi(TreeNode* root){
        
          queue<TreeNode*>q;
@@ -31,11 +31,11 @@ public:
             }
           } 
 
-              s.push(sum);
+              a=sum;
          }
     }
     int deepestLeavesSum(TreeNode* root) {
         modi(root);
-        return s.top();
+        return a;
     }
 };
