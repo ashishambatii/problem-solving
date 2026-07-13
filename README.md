@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ashishambatii/problem-solving/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/ashishambatii/problem-solving/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/ashishambatii/problem-solving/tree/master/0078-subsets) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ashishambatii/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/ashishambatii/problem-solving/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/ashishambatii/problem-solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishambatii/problem-solving/tree/master/0416-partition-equal-subset-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ashishambatii/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/1072-next-greater-node-in-linked-list) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ashishambatii/problem-solving/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ashishambatii/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/ashishambatii/problem-solving/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/ashishambatii/problem-solving/tree/master/0279-perfect-squares) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashishambatii/problem-solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
