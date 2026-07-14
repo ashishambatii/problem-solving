@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashishambatii/problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ashishambatii/problem-solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ashishambatii/problem-solving/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3790-fruits-into-baskets-ii](https://github.com/ashishambatii/problem-solving/tree/master/3790-fruits-into-baskets-ii) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/ashishambatii/problem-solving/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Linked List
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-find-the-winner-of-an-array-game](https://github.com/ashishambatii/problem-solving/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ashishambatii/problem-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ashishambatii/problem-solving/tree/master/3226-minimum-number-game) |
+| [3790-fruits-into-baskets-ii](https://github.com/ashishambatii/problem-solving/tree/master/3790-fruits-into-baskets-ii) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/ashishambatii/problem-solving/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ashishambatii/problem-solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [3790-fruits-into-baskets-ii](https://github.com/ashishambatii/problem-solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ashishambatii/problem-solving/tree/master/3790-fruits-into-baskets-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
+| [3790-fruits-into-baskets-ii](https://github.com/ashishambatii/problem-solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Recursion
 |  |
 | ------- |
