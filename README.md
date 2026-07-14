@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ashishambatii/problem-solving/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3226-minimum-number-game](https://github.com/ashishambatii/problem-solving/tree/master/3226-minimum-number-game) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashishambatii/problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ashishambatii/problem-solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ashishambatii/problem-solving/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/ashishambatii/problem-solving/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/ashishambatii/problem-solving/tree/master/1585-the-kth-factor-of-n) |
 | [1965-sum-of-digits-in-base-k](https://github.com/ashishambatii/problem-solving/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishambatii/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ashishambatii/problem-solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ashishambatii/problem-solving/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashishambatii/problem-solving/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
