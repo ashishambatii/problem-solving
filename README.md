@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/ashishambatii/problem-solving/tree/master/1961-maximum-ice-cream-bars) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishambatii/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ashishambatii/problem-solving/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ashishambatii/problem-solving/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ashishambatii/problem-solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/ashishambatii/problem-solving/tree/master/2478-longest-nice-subarray) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/ashishambatii/problem-solving/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/ashishambatii/problem-solving/tree/master/1297-maximum-number-of-balloons) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ashishambatii/problem-solving/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ashishambatii/problem-solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashishambatii/problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/ashishambatii/problem-solving/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/ashishambatii/problem-solving/tree/master/1297-maximum-number-of-balloons) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ashishambatii/problem-solving/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ashishambatii/problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Counting Sort
