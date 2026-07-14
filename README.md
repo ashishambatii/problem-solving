@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/1072-next-greater-node-in-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashishambatii/problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishambatii/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishambatii/problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishambatii/problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishambatii/problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
