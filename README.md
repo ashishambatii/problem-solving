@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishambatii/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ashishambatii/problem-solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ashishambatii/problem-solving/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/ashishambatii/problem-solving/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashishambatii/problem-solving/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
 |  |
@@ -305,4 +306,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/ashishambatii/problem-solving/tree/master/1585-the-kth-factor-of-n) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/ashishambatii/problem-solving/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
