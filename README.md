@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ashishambatii/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
+| [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/1072-next-greater-node-in-linked-list) |
 | [1130-last-stone-weight-ii](https://github.com/ashishambatii/problem-solving/tree/master/1130-last-stone-weight-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ashishambatii/problem-solving/tree/master/0047-permutations-ii) |
+| [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1222-remove-covered-intervals](https://github.com/ashishambatii/problem-solving/tree/master/1222-remove-covered-intervals) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ashishambatii/problem-solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ashishambatii/problem-solving/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishambatii/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
+| [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [1160-letter-tile-possibilities](https://github.com/ashishambatii/problem-solving/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/ashishambatii/problem-solving/tree/master/1297-maximum-number-of-balloons) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishambatii/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/ashishambatii/problem-solving/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
+| [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0800-letter-case-permutation](https://github.com/ashishambatii/problem-solving/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/ashishambatii/problem-solving/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/ashishambatii/problem-solving/tree/master/1297-maximum-number-of-balloons) |
@@ -197,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
+| [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [1160-letter-tile-possibilities](https://github.com/ashishambatii/problem-solving/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/ashishambatii/problem-solving/tree/master/1297-maximum-number-of-balloons) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ashishambatii/problem-solving/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -310,4 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/ashishambatii/problem-solving/tree/master/1585-the-kth-factor-of-n) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ashishambatii/problem-solving/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
