@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ashishambatii/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
 | [1130-last-stone-weight-ii](https://github.com/ashishambatii/problem-solving/tree/master/1130-last-stone-weight-ii) |
+| [1761-count-sorted-vowel-strings](https://github.com/ashishambatii/problem-solving/tree/master/1761-count-sorted-vowel-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ashishambatii/problem-solving/tree/master/0279-perfect-squares) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashishambatii/problem-solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/ashishambatii/problem-solving/tree/master/1585-the-kth-factor-of-n) |
+| [1761-count-sorted-vowel-strings](https://github.com/ashishambatii/problem-solving/tree/master/1761-count-sorted-vowel-strings) |
 | [1965-sum-of-digits-in-base-k](https://github.com/ashishambatii/problem-solving/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishambatii/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ashishambatii/problem-solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ashishambatii/problem-solving/tree/master/0062-unique-paths) |
+| [1761-count-sorted-vowel-strings](https://github.com/ashishambatii/problem-solving/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishambatii/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
