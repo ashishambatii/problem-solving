@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishambatii/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0208-implement-trie-prefix-tree](https://github.com/ashishambatii/problem-solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [1160-letter-tile-possibilities](https://github.com/ashishambatii/problem-solving/tree/master/1160-letter-tile-possibilities) |
@@ -168,6 +169,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishambatii/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/ashishambatii/problem-solving/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/ashishambatii/problem-solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0800-letter-case-permutation](https://github.com/ashishambatii/problem-solving/tree/master/0800-letter-case-permutation) |
@@ -336,6 +338,7 @@
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ashishambatii/problem-solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
@@ -345,4 +348,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/ashishambatii/problem-solving/tree/master/1236-n-th-tribonacci-number) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ashishambatii/problem-solving/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
