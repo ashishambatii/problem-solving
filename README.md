@@ -185,6 +185,7 @@
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ashishambatii/problem-solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ashishambatii/problem-solving/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ashishambatii/problem-solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3636-check-balanced-string](https://github.com/ashishambatii/problem-solving/tree/master/3636-check-balanced-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ashishambatii/problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
