@@ -18,6 +18,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ashishambatii/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ashishambatii/problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/ashishambatii/problem-solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ashishambatii/problem-solving/tree/master/0047-permutations-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ashishambatii/problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1222-remove-covered-intervals](https://github.com/ashishambatii/problem-solving/tree/master/1222-remove-covered-intervals) |
@@ -134,6 +136,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/ashishambatii/problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/ashishambatii/problem-solving/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -198,6 +201,7 @@
 | [0322-coin-change](https://github.com/ashishambatii/problem-solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishambatii/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ashishambatii/problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/ashishambatii/problem-solving/tree/master/0747-min-cost-climbing-stairs) |
 | [1130-last-stone-weight-ii](https://github.com/ashishambatii/problem-solving/tree/master/1130-last-stone-weight-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/ashishambatii/problem-solving/tree/master/1236-n-th-tribonacci-number) |
