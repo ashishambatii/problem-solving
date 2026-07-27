@@ -18,6 +18,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ashishambatii/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashishambatii/problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ashishambatii/problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/ashishambatii/problem-solving/tree/master/0747-min-cost-climbing-stairs) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ashishambatii/problem-solving/tree/master/0047-permutations-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashishambatii/problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ashishambatii/problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
@@ -247,6 +249,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishambatii/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/ashishambatii/problem-solving/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/ashishambatii/problem-solving/tree/master/0279-perfect-squares) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashishambatii/problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/ashishambatii/problem-solving/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashishambatii/problem-solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/ashishambatii/problem-solving/tree/master/1585-the-kth-factor-of-n) |
