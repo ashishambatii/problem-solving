@@ -97,6 +97,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3226-minimum-number-game](https://github.com/ashishambatii/problem-solving/tree/master/3226-minimum-number-game) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/ashishambatii/problem-solving/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/ashishambatii/problem-solving/tree/master/3859-maximum-product-of-two-digits) |
 | [4107-find-missing-elements](https://github.com/ashishambatii/problem-solving/tree/master/4107-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -196,6 +197,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ashishambatii/problem-solving/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ashishambatii/problem-solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3636-check-balanced-string](https://github.com/ashishambatii/problem-solving/tree/master/3636-check-balanced-string) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/ashishambatii/problem-solving/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ashishambatii/problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/ashishambatii/problem-solving/tree/master/1961-maximum-ice-cream-bars) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/ashishambatii/problem-solving/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
