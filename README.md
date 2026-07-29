@@ -24,6 +24,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/ashishambatii/problem-solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/1072-next-greater-node-in-linked-list) |
+| [1121-partition-array-for-maximum-sum](https://github.com/ashishambatii/problem-solving/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/ashishambatii/problem-solving/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/ashishambatii/problem-solving/tree/master/1130-last-stone-weight-ii) |
 | [1222-remove-covered-intervals](https://github.com/ashishambatii/problem-solving/tree/master/1222-remove-covered-intervals) |
@@ -212,6 +213,7 @@
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ashishambatii/problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/ashishambatii/problem-solving/tree/master/0747-min-cost-climbing-stairs) |
+| [1121-partition-array-for-maximum-sum](https://github.com/ashishambatii/problem-solving/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/ashishambatii/problem-solving/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/ashishambatii/problem-solving/tree/master/1130-last-stone-weight-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/ashishambatii/problem-solving/tree/master/1236-n-th-tribonacci-number) |
