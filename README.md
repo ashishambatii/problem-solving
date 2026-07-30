@@ -153,6 +153,7 @@
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ashishambatii/problem-solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashishambatii/problem-solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ashishambatii/problem-solving/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ashishambatii/problem-solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ashishambatii/problem-solving/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ashishambatii/problem-solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ashishambatii/problem-solving/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ashishambatii/problem-solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ashishambatii/problem-solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3636-check-balanced-string](https://github.com/ashishambatii/problem-solving/tree/master/3636-check-balanced-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ashishambatii/problem-solving/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -261,6 +263,7 @@
 | [1761-count-sorted-vowel-strings](https://github.com/ashishambatii/problem-solving/tree/master/1761-count-sorted-vowel-strings) |
 | [1965-sum-of-digits-in-base-k](https://github.com/ashishambatii/problem-solving/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishambatii/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ashishambatii/problem-solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ashishambatii/problem-solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ashishambatii/problem-solving/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3859-maximum-product-of-two-digits](https://github.com/ashishambatii/problem-solving/tree/master/3859-maximum-product-of-two-digits) |
