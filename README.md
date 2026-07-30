@@ -137,6 +137,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ashishambatii/problem-solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ashishambatii/problem-solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashishambatii/problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ashishambatii/problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -199,6 +200,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ashishambatii/problem-solving/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ashishambatii/problem-solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ashishambatii/problem-solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3636-check-balanced-string](https://github.com/ashishambatii/problem-solving/tree/master/3636-check-balanced-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ashishambatii/problem-solving/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ashishambatii/problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -220,6 +222,7 @@
 | [1130-last-stone-weight-ii](https://github.com/ashishambatii/problem-solving/tree/master/1130-last-stone-weight-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/ashishambatii/problem-solving/tree/master/1236-n-th-tribonacci-number) |
 | [1761-count-sorted-vowel-strings](https://github.com/ashishambatii/problem-solving/tree/master/1761-count-sorted-vowel-strings) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -242,6 +245,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/ashishambatii/problem-solving/tree/master/1297-maximum-number-of-balloons) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ashishambatii/problem-solving/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ashishambatii/problem-solving/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ashishambatii/problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Counting Sort
