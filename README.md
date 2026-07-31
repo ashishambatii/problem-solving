@@ -35,6 +35,7 @@
 | [1657-find-the-winner-of-an-array-game](https://github.com/ashishambatii/problem-solving/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1833-find-the-highest-altitude](https://github.com/ashishambatii/problem-solving/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ashishambatii/problem-solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ashishambatii/problem-solving/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/ashishambatii/problem-solving/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/ashishambatii/problem-solving/tree/master/1961-maximum-ice-cream-bars) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishambatii/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -149,6 +150,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/ashishambatii/problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ashishambatii/problem-solving/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/ashishambatii/problem-solving/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/ashishambatii/problem-solving/tree/master/1961-maximum-ice-cream-bars) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ashishambatii/problem-solving/tree/master/2094-remove-stones-to-minimize-the-total) |
