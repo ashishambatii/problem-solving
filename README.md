@@ -52,6 +52,7 @@
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ashishambatii/problem-solving/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ashishambatii/problem-solving/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3226-minimum-number-game](https://github.com/ashishambatii/problem-solving/tree/master/3226-minimum-number-game) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ashishambatii/problem-solving/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashishambatii/problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ashishambatii/problem-solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ashishambatii/problem-solving/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -164,6 +165,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashishambatii/problem-solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ashishambatii/problem-solving/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ashishambatii/problem-solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ashishambatii/problem-solving/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/ashishambatii/problem-solving/tree/master/1236-n-th-tribonacci-number) |
 | [1761-count-sorted-vowel-strings](https://github.com/ashishambatii/problem-solving/tree/master/1761-count-sorted-vowel-strings) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ashishambatii/problem-solving/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Prefix Sum
 |  |
 | ------- |
