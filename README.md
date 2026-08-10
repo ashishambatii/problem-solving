@@ -408,4 +408,8 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashishambatii/problem-solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/ashishambatii/problem-solving/tree/master/0647-palindromic-substrings) |
 | [1129-longest-string-chain](https://github.com/ashishambatii/problem-solving/tree/master/1129-longest-string-chain) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ashishambatii/problem-solving/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
