@@ -30,6 +30,7 @@
 | [1129-longest-string-chain](https://github.com/ashishambatii/problem-solving/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/ashishambatii/problem-solving/tree/master/1130-last-stone-weight-ii) |
 | [1222-remove-covered-intervals](https://github.com/ashishambatii/problem-solving/tree/master/1222-remove-covered-intervals) |
+| [1325-path-with-maximum-probability](https://github.com/ashishambatii/problem-solving/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ashishambatii/problem-solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ashishambatii/problem-solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
+| [1325-path-with-maximum-probability](https://github.com/ashishambatii/problem-solving/tree/master/1325-path-with-maximum-probability) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ashishambatii/problem-solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ashishambatii/problem-solving/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -421,5 +423,14 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/ashishambatii/problem-solving/tree/master/1325-path-with-maximum-probability) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ashishambatii/problem-solving/tree/master/2121-find-if-path-exists-in-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/ashishambatii/problem-solving/tree/master/1325-path-with-maximum-probability) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/ashishambatii/problem-solving/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
