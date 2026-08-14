@@ -52,6 +52,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ashishambatii/problem-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ashishambatii/problem-solving/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ashishambatii/problem-solving/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3226-minimum-number-game](https://github.com/ashishambatii/problem-solving/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ashishambatii/problem-solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ashishambatii/problem-solving/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -147,6 +148,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ashishambatii/problem-solving/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ashishambatii/problem-solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ashishambatii/problem-solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashishambatii/problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -324,6 +326,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishambatii/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2478-longest-nice-subarray](https://github.com/ashishambatii/problem-solving/tree/master/2478-longest-nice-subarray) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ashishambatii/problem-solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Breadth-First Search
 |  |
