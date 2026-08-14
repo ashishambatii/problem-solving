@@ -24,6 +24,7 @@
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/ashishambatii/problem-solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
+| [0890-lemonade-change](https://github.com/ashishambatii/problem-solving/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishambatii/problem-solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/1072-next-greater-node-in-linked-list) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ashishambatii/problem-solving/tree/master/1121-partition-array-for-maximum-sum) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/ashishambatii/problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
+| [0890-lemonade-change](https://github.com/ashishambatii/problem-solving/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishambatii/problem-solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ashishambatii/problem-solving/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
