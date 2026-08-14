@@ -26,6 +26,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/ashishambatii/problem-solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/ashishambatii/problem-solving/tree/master/0890-lemonade-change) |
+| [0926-find-and-replace-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0926-find-and-replace-pattern) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishambatii/problem-solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/1072-next-greater-node-in-linked-list) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ashishambatii/problem-solving/tree/master/1121-partition-array-for-maximum-sum) |
@@ -143,6 +144,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ashishambatii/problem-solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
+| [0926-find-and-replace-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0926-find-and-replace-pattern) |
 | [1129-longest-string-chain](https://github.com/ashishambatii/problem-solving/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/ashishambatii/problem-solving/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/ashishambatii/problem-solving/tree/master/1297-maximum-number-of-balloons) |
@@ -211,6 +213,7 @@
 | [0647-palindromic-substrings](https://github.com/ashishambatii/problem-solving/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0800-letter-case-permutation](https://github.com/ashishambatii/problem-solving/tree/master/0800-letter-case-permutation) |
+| [0926-find-and-replace-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0926-find-and-replace-pattern) |
 | [1129-longest-string-chain](https://github.com/ashishambatii/problem-solving/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/ashishambatii/problem-solving/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/ashishambatii/problem-solving/tree/master/1297-maximum-number-of-balloons) |
