@@ -250,6 +250,7 @@
 | [1129-longest-string-chain](https://github.com/ashishambatii/problem-solving/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/ashishambatii/problem-solving/tree/master/1130-last-stone-weight-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/ashishambatii/problem-solving/tree/master/1236-n-th-tribonacci-number) |
+| [1362-airplane-seat-assignment-probability](https://github.com/ashishambatii/problem-solving/tree/master/1362-airplane-seat-assignment-probability) |
 | [1761-count-sorted-vowel-strings](https://github.com/ashishambatii/problem-solving/tree/master/1761-count-sorted-vowel-strings) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ashishambatii/problem-solving/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -295,6 +296,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishambatii/problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0900-reordered-power-of-2](https://github.com/ashishambatii/problem-solving/tree/master/0900-reordered-power-of-2) |
 | [1236-n-th-tribonacci-number](https://github.com/ashishambatii/problem-solving/tree/master/1236-n-th-tribonacci-number) |
+| [1362-airplane-seat-assignment-probability](https://github.com/ashishambatii/problem-solving/tree/master/1362-airplane-seat-assignment-probability) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashishambatii/problem-solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/ashishambatii/problem-solving/tree/master/1585-the-kth-factor-of-n) |
 | [1761-count-sorted-vowel-strings](https://github.com/ashishambatii/problem-solving/tree/master/1761-count-sorted-vowel-strings) |
@@ -448,4 +450,12 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/ashishambatii/problem-solving/tree/master/1325-path-with-maximum-probability) |
+## Brainteaser
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/ashishambatii/problem-solving/tree/master/1362-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/ashishambatii/problem-solving/tree/master/1362-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
