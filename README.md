@@ -50,6 +50,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ashishambatii/problem-solving/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ashishambatii/problem-solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ashishambatii/problem-solving/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ashishambatii/problem-solving/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/ashishambatii/problem-solving/tree/master/2478-longest-nice-subarray) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashishambatii/problem-solving/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -155,6 +156,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ashishambatii/problem-solving/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ashishambatii/problem-solving/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ashishambatii/problem-solving/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ashishambatii/problem-solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -353,6 +355,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ashishambatii/problem-solving/tree/master/1254-deepest-leaves-sum) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ashishambatii/problem-solving/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ashishambatii/problem-solving/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Ordered Set
@@ -378,6 +381,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ashishambatii/problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ashishambatii/problem-solving/tree/master/1254-deepest-leaves-sum) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ashishambatii/problem-solving/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -389,6 +393,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ashishambatii/problem-solving/tree/master/1254-deepest-leaves-sum) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ashishambatii/problem-solving/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ashishambatii/problem-solving/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -441,11 +446,13 @@
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/ashishambatii/problem-solving/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ashishambatii/problem-solving/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Graph Theory
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/ashishambatii/problem-solving/tree/master/1325-path-with-maximum-probability) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ashishambatii/problem-solving/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ashishambatii/problem-solving/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Shortest Path
 |  |
 | ------- |
