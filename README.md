@@ -24,6 +24,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/ashishambatii/problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/ashishambatii/problem-solving/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/ashishambatii/problem-solving/tree/master/0753-open-the-lock) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/ashishambatii/problem-solving/tree/master/0890-lemonade-change) |
 | [0926-find-and-replace-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0926-find-and-replace-pattern) |
@@ -145,6 +146,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ashishambatii/problem-solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
+| [0753-open-the-lock](https://github.com/ashishambatii/problem-solving/tree/master/0753-open-the-lock) |
 | [0900-reordered-power-of-2](https://github.com/ashishambatii/problem-solving/tree/master/0900-reordered-power-of-2) |
 | [0926-find-and-replace-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0926-find-and-replace-pattern) |
 | [1129-longest-string-chain](https://github.com/ashishambatii/problem-solving/tree/master/1129-longest-string-chain) |
@@ -214,6 +216,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashishambatii/problem-solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/ashishambatii/problem-solving/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
+| [0753-open-the-lock](https://github.com/ashishambatii/problem-solving/tree/master/0753-open-the-lock) |
 | [0800-letter-case-permutation](https://github.com/ashishambatii/problem-solving/tree/master/0800-letter-case-permutation) |
 | [0926-find-and-replace-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0926-find-and-replace-pattern) |
 | [1129-longest-string-chain](https://github.com/ashishambatii/problem-solving/tree/master/1129-longest-string-chain) |
@@ -346,6 +349,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/ashishambatii/problem-solving/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ashishambatii/problem-solving/tree/master/0322-coin-change) |
+| [0753-open-the-lock](https://github.com/ashishambatii/problem-solving/tree/master/0753-open-the-lock) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ashishambatii/problem-solving/tree/master/1254-deepest-leaves-sum) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ashishambatii/problem-solving/tree/master/2121-find-if-path-exists-in-graph) |
@@ -458,4 +462,8 @@
 |  |
 | ------- |
 | [1362-airplane-seat-assignment-probability](https://github.com/ashishambatii/problem-solving/tree/master/1362-airplane-seat-assignment-probability) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0753-open-the-lock](https://github.com/ashishambatii/problem-solving/tree/master/0753-open-the-lock) |
 <!---LeetCode Topics End-->
