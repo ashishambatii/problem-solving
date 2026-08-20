@@ -60,6 +60,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3226-minimum-number-game](https://github.com/ashishambatii/problem-solving/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ashishambatii/problem-solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/ashishambatii/problem-solving/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ashishambatii/problem-solving/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashishambatii/problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ashishambatii/problem-solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -138,6 +139,7 @@
 | [1657-find-the-winner-of-an-array-game](https://github.com/ashishambatii/problem-solving/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ashishambatii/problem-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ashishambatii/problem-solving/tree/master/3226-minimum-number-game) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/ashishambatii/problem-solving/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ashishambatii/problem-solving/tree/master/3790-fruits-into-baskets-ii) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/ashishambatii/problem-solving/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
