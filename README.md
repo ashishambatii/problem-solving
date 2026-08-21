@@ -48,6 +48,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishambatii/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ashishambatii/problem-solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ashishambatii/problem-solving/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2232-adding-spaces-to-a-string](https://github.com/ashishambatii/problem-solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ashishambatii/problem-solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ashishambatii/problem-solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ashishambatii/problem-solving/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [1657-find-the-winner-of-an-array-game](https://github.com/ashishambatii/problem-solving/tree/master/1657-find-the-winner-of-an-array-game) |
+| [2232-adding-spaces-to-a-string](https://github.com/ashishambatii/problem-solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ashishambatii/problem-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ashishambatii/problem-solving/tree/master/3226-minimum-number-game) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ashishambatii/problem-solving/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -231,6 +233,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ashishambatii/problem-solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1970-sorting-the-sentence](https://github.com/ashishambatii/problem-solving/tree/master/1970-sorting-the-sentence) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ashishambatii/problem-solving/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/ashishambatii/problem-solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ashishambatii/problem-solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ashishambatii/problem-solving/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ashishambatii/problem-solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -440,6 +443,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashishambatii/problem-solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/ashishambatii/problem-solving/tree/master/0647-palindromic-substrings) |
 | [1129-longest-string-chain](https://github.com/ashishambatii/problem-solving/tree/master/1129-longest-string-chain) |
+| [2232-adding-spaces-to-a-string](https://github.com/ashishambatii/problem-solving/tree/master/2232-adding-spaces-to-a-string) |
 ## Database
 |  |
 | ------- |
