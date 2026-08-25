@@ -69,6 +69,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/ashishambatii/problem-solving/tree/master/3790-fruits-into-baskets-ii) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/ashishambatii/problem-solving/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/ashishambatii/problem-solving/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/ashishambatii/problem-solving/tree/master/4107-find-missing-elements) |
 ## Linked List
 |  |
@@ -168,6 +169,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashishambatii/problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ashishambatii/problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/ashishambatii/problem-solving/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/ashishambatii/problem-solving/tree/master/4107-find-missing-elements) |
 ## Greedy
 |  |
