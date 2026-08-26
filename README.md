@@ -50,6 +50,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ashishambatii/problem-solving/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashishambatii/problem-solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ashishambatii/problem-solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2388-replace-elements-in-an-array](https://github.com/ashishambatii/problem-solving/tree/master/2388-replace-elements-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ashishambatii/problem-solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ashishambatii/problem-solving/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -140,6 +141,7 @@
 | ------- |
 | [1657-find-the-winner-of-an-array-game](https://github.com/ashishambatii/problem-solving/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashishambatii/problem-solving/tree/master/2232-adding-spaces-to-a-string) |
+| [2388-replace-elements-in-an-array](https://github.com/ashishambatii/problem-solving/tree/master/2388-replace-elements-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ashishambatii/problem-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ashishambatii/problem-solving/tree/master/3226-minimum-number-game) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ashishambatii/problem-solving/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -160,6 +162,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/ashishambatii/problem-solving/tree/master/1297-maximum-number-of-balloons) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ashishambatii/problem-solving/tree/master/1464-reduce-array-size-to-the-half) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ashishambatii/problem-solving/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2388-replace-elements-in-an-array](https://github.com/ashishambatii/problem-solving/tree/master/2388-replace-elements-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ashishambatii/problem-solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ashishambatii/problem-solving/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
