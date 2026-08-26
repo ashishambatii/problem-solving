@@ -56,6 +56,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/ashishambatii/problem-solving/tree/master/2478-longest-nice-subarray) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashishambatii/problem-solving/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishambatii/problem-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ashishambatii/problem-solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ashishambatii/problem-solving/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/ashishambatii/problem-solving/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -116,6 +117,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashishambatii/problem-solving/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/ashishambatii/problem-solving/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishambatii/problem-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashishambatii/problem-solving/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3226-minimum-number-game](https://github.com/ashishambatii/problem-solving/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ashishambatii/problem-solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -166,6 +168,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ashishambatii/problem-solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ashishambatii/problem-solving/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishambatii/problem-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ashishambatii/problem-solving/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
@@ -189,6 +192,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashishambatii/problem-solving/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ashishambatii/problem-solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashishambatii/problem-solving/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishambatii/problem-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ashishambatii/problem-solving/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ashishambatii/problem-solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ashishambatii/problem-solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -281,6 +285,7 @@
 | ------- |
 | [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ashishambatii/problem-solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishambatii/problem-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ashishambatii/problem-solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
