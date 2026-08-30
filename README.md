@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashishambatii/problem-solving/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ashishambatii/problem-solving/tree/master/0014-longest-common-prefix) |
 | [0040-combination-sum-ii](https://github.com/ashishambatii/problem-solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ashishambatii/problem-solving/tree/master/0046-permutations) |
@@ -152,6 +153,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashishambatii/problem-solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishambatii/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/ashishambatii/problem-solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
