@@ -74,6 +74,7 @@
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/ashishambatii/problem-solving/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/ashishambatii/problem-solving/tree/master/4107-find-missing-elements) |
+| [4284-smallest-stable-index-i](https://github.com/ashishambatii/problem-solving/tree/master/4284-smallest-stable-index-i) |
 ## Linked List
 |  |
 | ------- |
@@ -282,6 +283,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ashishambatii/problem-solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ashishambatii/problem-solving/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4284-smallest-stable-index-i](https://github.com/ashishambatii/problem-solving/tree/master/4284-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
