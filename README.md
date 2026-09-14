@@ -463,6 +463,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ashishambatii/problem-solving/tree/master/0175-combine-two-tables) |
+| [1837-daily-leads-and-partners](https://github.com/ashishambatii/problem-solving/tree/master/1837-daily-leads-and-partners) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ashishambatii/problem-solving/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ashishambatii/problem-solving/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Union-Find
