@@ -464,6 +464,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/ashishambatii/problem-solving/tree/master/0175-combine-two-tables) |
 | [1301-reformat-department-table](https://github.com/ashishambatii/problem-solving/tree/master/1301-reformat-department-table) |
+| [1625-group-sold-products-by-the-date](https://github.com/ashishambatii/problem-solving/tree/master/1625-group-sold-products-by-the-date) |
 | [1837-daily-leads-and-partners](https://github.com/ashishambatii/problem-solving/tree/master/1837-daily-leads-and-partners) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ashishambatii/problem-solving/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ashishambatii/problem-solving/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
