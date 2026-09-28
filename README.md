@@ -92,6 +92,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/1072-next-greater-node-in-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashishambatii/problem-solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/2573-remove-nodes-from-linked-list) |
+| [4090-minimum-string-length-after-balanced-removals](https://github.com/ashishambatii/problem-solving/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | [3636-check-balanced-string](https://github.com/ashishambatii/problem-solving/tree/master/3636-check-balanced-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ashishambatii/problem-solving/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ashishambatii/problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4090-minimum-string-length-after-balanced-removals](https://github.com/ashishambatii/problem-solving/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -308,6 +310,7 @@
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ashishambatii/problem-solving/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ashishambatii/problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ashishambatii/problem-solving/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4090-minimum-string-length-after-balanced-removals](https://github.com/ashishambatii/problem-solving/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Counting Sort
 |  |
 | ------- |
