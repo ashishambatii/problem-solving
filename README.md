@@ -24,6 +24,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ashishambatii/problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ashishambatii/problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
+| [0739-daily-temperatures](https://github.com/ashishambatii/problem-solving/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/ashishambatii/problem-solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/ashishambatii/problem-solving/tree/master/0753-open-the-lock) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
@@ -88,6 +89,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishambatii/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/ashishambatii/problem-solving/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/1072-next-greater-node-in-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashishambatii/problem-solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/ashishambatii/problem-solving/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishambatii/problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/1072-next-greater-node-in-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ashishambatii/problem-solving/tree/master/2573-remove-nodes-from-linked-list) |
