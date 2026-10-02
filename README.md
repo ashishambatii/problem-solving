@@ -206,6 +206,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ashishambatii/problem-solving/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/ashishambatii/problem-solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ashishambatii/problem-solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ashishambatii/problem-solving/tree/master/0047-permutations-ii) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishambatii/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ashishambatii/problem-solving/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ashishambatii/problem-solving/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/ashishambatii/problem-solving/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/ashishambatii/problem-solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
@@ -262,6 +264,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ashishambatii/problem-solving/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/ashishambatii/problem-solving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ashishambatii/problem-solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashishambatii/problem-solving/tree/master/0064-minimum-path-sum) |
@@ -505,4 +508,8 @@
 |  |
 | ------- |
 | [0753-open-the-lock](https://github.com/ashishambatii/problem-solving/tree/master/0753-open-the-lock) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ashishambatii/problem-solving/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
