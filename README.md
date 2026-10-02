@@ -20,6 +20,7 @@
 | [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/ashishambatii/problem-solving/tree/master/0494-target-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashishambatii/problem-solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0560-subarray-sum-equals-k](https://github.com/ashishambatii/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishambatii/problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ashishambatii/problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ashishambatii/problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
@@ -164,6 +165,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishambatii/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/ashishambatii/problem-solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/ashishambatii/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/ashishambatii/problem-solving/tree/master/0753-open-the-lock) |
 | [0900-reordered-power-of-2](https://github.com/ashishambatii/problem-solving/tree/master/0900-reordered-power-of-2) |
@@ -290,6 +292,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ashishambatii/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [1833-find-the-highest-altitude](https://github.com/ashishambatii/problem-solving/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ashishambatii/problem-solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ashishambatii/problem-solving/tree/master/3704-count-partitions-with-even-sum-difference) |
