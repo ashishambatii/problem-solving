@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ashishambatii/problem-solving/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ashishambatii/problem-solving/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashishambatii/problem-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/ashishambatii/problem-solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ashishambatii/problem-solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ashishambatii/problem-solving/tree/master/0047-permutations-ii) |
@@ -304,6 +305,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashishambatii/problem-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ashishambatii/problem-solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishambatii/problem-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -523,7 +525,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashishambatii/problem-solving/tree/master/0022-generate-parentheses) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashishambatii/problem-solving/tree/master/0169-majority-element) |
