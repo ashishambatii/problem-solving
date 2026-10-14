@@ -212,6 +212,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ashishambatii/problem-solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ashishambatii/problem-solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ashishambatii/problem-solving/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -354,6 +355,7 @@
 | [3859-maximum-product-of-two-digits](https://github.com/ashishambatii/problem-solving/tree/master/3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/ashishambatii/problem-solving/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ashishambatii/problem-solving/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/ashishambatii/problem-solving/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashishambatii/problem-solving/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
 |  |
@@ -525,7 +527,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashishambatii/problem-solving/tree/master/0022-generate-parentheses) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashishambatii/problem-solving/tree/master/0169-majority-element) |
