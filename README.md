@@ -13,6 +13,7 @@
 | [0047-permutations-ii](https://github.com/ashishambatii/problem-solving/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/ashishambatii/problem-solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashishambatii/problem-solving/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/ashishambatii/problem-solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ashishambatii/problem-solving/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishambatii/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ashishambatii/problem-solving/tree/master/0169-majority-element) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ashishambatii/problem-solving/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/ashishambatii/problem-solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ashishambatii/problem-solving/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ashishambatii/problem-solving/tree/master/0268-missing-number) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashishambatii/problem-solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -485,6 +487,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ashishambatii/problem-solving/tree/master/0075-sort-colors) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashishambatii/problem-solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/ashishambatii/problem-solving/tree/master/0647-palindromic-substrings) |
 | [1129-longest-string-chain](https://github.com/ashishambatii/problem-solving/tree/master/1129-longest-string-chain) |
@@ -533,8 +536,16 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashishambatii/problem-solving/tree/master/0022-generate-parentheses) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashishambatii/problem-solving/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ashishambatii/problem-solving/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ashishambatii/problem-solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
