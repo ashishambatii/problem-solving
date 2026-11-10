@@ -17,6 +17,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishambatii/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ashishambatii/problem-solving/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/ashishambatii/problem-solving/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/ashishambatii/problem-solving/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/ashishambatii/problem-solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishambatii/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/ashishambatii/problem-solving/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/ashishambatii/problem-solving/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ashishambatii/problem-solving/tree/master/0268-missing-number) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashishambatii/problem-solving/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishambatii/problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ashishambatii/problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
@@ -168,6 +170,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishambatii/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/ashishambatii/problem-solving/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ashishambatii/problem-solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/ashishambatii/problem-solving/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/ashishambatii/problem-solving/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishambatii/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/ashishambatii/problem-solving/tree/master/0692-top-k-frequent-words) |
@@ -232,6 +235,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ashishambatii/problem-solving/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/ashishambatii/problem-solving/tree/master/0268-missing-number) |
 | [0800-letter-case-permutation](https://github.com/ashishambatii/problem-solving/tree/master/0800-letter-case-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishambatii/problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/ashishambatii/problem-solving/tree/master/2478-longest-nice-subarray) |
@@ -307,6 +311,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashishambatii/problem-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/ashishambatii/problem-solving/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/ashishambatii/problem-solving/tree/master/0456-132-pattern) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ashishambatii/problem-solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishambatii/problem-solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -338,6 +343,7 @@
 | [0062-unique-paths](https://github.com/ashishambatii/problem-solving/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishambatii/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/ashishambatii/problem-solving/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/ashishambatii/problem-solving/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/ashishambatii/problem-solving/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishambatii/problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0900-reordered-power-of-2](https://github.com/ashishambatii/problem-solving/tree/master/0900-reordered-power-of-2) |
@@ -527,7 +533,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashishambatii/problem-solving/tree/master/0022-generate-parentheses) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashishambatii/problem-solving/tree/master/0169-majority-element) |
